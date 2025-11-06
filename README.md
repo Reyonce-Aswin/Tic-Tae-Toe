@@ -29,8 +29,14 @@ In addition to the C++ console game, a web version of Tic-Tac-Toe has been devel
 
 Compile and run the C++ project using your preferred compiler. For example, using g++:
 ```
-g++ main.cpp game.cpp -o tic_tac_toe
-./tic_tac_toe
+g++ main.cpp game.cpp -o tictactoe
+```
+Run application:
+```Bash
+./tictaetoe
+```
+```Powershell
+./tictaetoe.exe
 ```
 
 ### Web Version

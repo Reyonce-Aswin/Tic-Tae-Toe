@@ -45,7 +45,7 @@ Open the `index.html` file in your web browser to play the web-based Tic-Tac-Toe
 
 ## Author
 
-[Your Name]
+Reyonce Aswin T
 
 ---
 
